@@ -1,4 +1,4 @@
-package com.demon.Singleton.example2;
+package com.demon.singleton.example2;
 
 /**
  * 饿汉式加载

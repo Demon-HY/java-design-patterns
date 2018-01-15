@@ -25,4 +25,4 @@
  *
  * Created by Demon-Coffee on 2018/1/15 0015.
  */
-package com.demon.Singleton;
+package com.demon.singleton;
